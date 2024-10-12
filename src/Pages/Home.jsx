@@ -47,7 +47,7 @@ const Home = () => {
 						WELCOME
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						TO XII TKJ 3
+						TO XII TJKT 3
 					</h6>
 				</div>
 			</div>
