@@ -1,36 +1,6 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html
   lang="en"
->Web Kelas</h1><a id="user-content-web-kelas" class="anchor" aria-label="Permalink: Web Kelas" href="#web-kelas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami.</p>
-<p dir="auto">Teknologi yang digunakan diantaranya:</p>
-<ul dir="auto">
-<li>React JS: Membangun antarmuka pengguna yang responsif dan interaktif.</li>
-<li>MUI: MUI (Material-UI) digunakan untuk mendesain antarmuka dengan komponen Material Design yang indah.</li>
-<li>Tailwind CSS: Memastikan tampilan dan gaya yang modern dan fleksibel.</li>
-<li>Slick JS: Untuk tampilan galeri yang halus dan menarik.</li>
-<li>Firebase: Menyediakan backend yang aman dan efisien untuk pengelolaan data.</li>
-<li>AOS: Animasi yang menarik untuk meningkatkan tampilan dan nuansa situs.</li>
-</ul>
-<p dir="auto">Apa yang dapat Anda temukan di web ini:</p>
-<ul dir="auto">
-<li>Text Anonim: Bagian ini memungkinkan pengguna untuk berinteraksi dengan informasi kelas tanpa harus mengungkapkan identitas mereka.</li>
-<li>Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelas kami.</li>
-<li>Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.</li>
-</ul>
-<p dir="auto">Project ini di buat oleh :</p>
-<ul dir="auto">
-<li>Eki</li>
-<li>Dafy</li>
-<li>inspirasi desain : <a href="https://www.instagram.com/p/ColkoEmyMOK/?igsh=MW9vaXIxdWdnY2kzcw==" rel="nofollow">https://www.instagram.com/p/ColkoEmyMOK/?igsh=MW9vaXIxdWdnY2kzcw==</a></li>
-</ul>
-<p dir="auto">Kunjungi situs web kami di <a href="https://xitkj3.vercel.app/" rel="nofollow">https://xitkj3.vercel.app/</a> untuk mendapatkan informasi lebih lanjut. Kami sangat menghargai apabila Anda ingin menggunakan proyek ini, harap sertakan kredit kami dalam penggunaan Anda. Terima kasih! 🙏</p>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Tutorial Running Webnya</h1><a id="user-content-tutorial-running-webnya" class="anchor" aria-label="Permalink: Tutorial Running Webnya" href="#tutorial-running-webnya"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">Note: ini merupakan cara saya, jika ada yang lebih mudah dan efisien silahkan</p>
 <p dir="auto">-Install NodeJS terlebih dahulu
