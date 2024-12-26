@@ -70,18 +70,4 @@
 <hr>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/92925560/275827502-da0b81c4-a8ff-4f64-a32e-ae4ab59925f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUyMjM3MjksIm5iZiI6MTczNTIyMzQyOSwicGF0aCI6Ii85MjkyNTU2MC8yNzU4Mjc1MDItZGEwYjgxYzQtYThmZi00ZjY0LWEzMmUtYWU0YWI1OTkyNWYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI2VDE0MzAyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2N2I5MWU2NzM3Y2YxYjRjOWUzNzg0YWMxNTA2YWM3NzkwMjhhY2YwMTQ4YWQ4MWI1NWY4NmI4NGMyNzNjZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c2qgPwc-l6NaThTezgxS11hVLPFS0KMSk9NGapgM3TY"><img src="https://private-user-images.githubusercontent.com/92925560/275827502-da0b81c4-a8ff-4f64-a32e-ae4ab59925f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUyMjM3MjksIm5iZiI6MTczNTIyMzQyOSwicGF0aCI6Ii85MjkyNTU2MC8yNzU4Mjc1MDItZGEwYjgxYzQtYThmZi00ZjY0LWEzMmUtYWU0YWI1OTkyNWYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI2VDE0MzAyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2N2I5MWU2NzM3Y2YxYjRjOWUzNzg0YWMxNTA2YWM3NzkwMjhhY2YwMTQ4YWQ4MWI1NWY4NmI4NGMyNzNjZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c2qgPwc-l6NaThTezgxS11hVLPFS0KMSk9NGapgM3TY" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">sekian, kurang lebihnya mohon maaf 🙏</p>
-</article></div><button hidden=""></button></section></div></div></div> <!-- --> <!-- --> </div></div></div><div class="Box-sc-g0xbh4-0"></div></div></div></div></div><div id="find-result-marks-container" class="Box-sc-g0xbh4-0 cCoXib"></div><button hidden="" data-testid="" data-hotkey-scope="read-only-cursor-text-area"></button><button hidden=""></button></div> <!-- --> <!-- --> <script type="application/json" id="__PRIMER_DATA_:R0:__">{"resolvedServerColorMode":"night"}</script></div>
-</react-app>
-</turbo-frame>
-
-
-
-  </div>
-
-</turbo-frame>
-
-    </main>
-  </div>
-
-  </div>
 
