@@ -76,8 +76,8 @@ body {
 	height: auto;
 	background: radial-gradient(
 			circle,
-			rgba(224, 107, 212, 0.404) 0%,
-			rgba(76, 57, 198, 0.404) 100%
+			rgba(57, 106, 252, 0.5) 0%,
+			rgba(41, 72, 255, 0.2) 100%
 		),
 		url("/Background.jpeg");
 	background-repeat: no-repeat;
@@ -266,7 +266,7 @@ body {
 #Mesh1 {
 	width: 100%;
 	position: absolute;
-	background-image: radial-gradient(at -66% 56.8%, hsl(292, 93%, 53%) 0px, transparent 50%);
+	background-image: radial-gradient(at -66% 56.8%, rgba(41, 72, 255, 0.2) 0px, transparent 50%);
 	background-repeat: no-repeat, no-repeat;
 	z-index: -999;
 }
@@ -279,7 +279,7 @@ body {
 
 
 #Tabs {
-	background-image: radial-gradient(at 122.3% 55.5%, hsla(292, 93%, 53%, 0.492) 0px, transparent 50%),
+	background-image: radial-gradient(at 122.3% 55.5%, rgba(57, 106, 252, 0.5) 0px, transparent 50%),
 		radial-gradient(at 81.4% 65.2%, hsl(0, 0%, 12%) 0px, transparent 50%);
 }
 
@@ -404,8 +404,8 @@ input:focus {
 #Footer {
 	background: linear-gradient(
 		to top,
-		rgba(218, 9, 229, 0.39) 5%,
-		rgba(218, 9, 229, 0.149) 55%,
+		rgba(57, 106, 252, 0.5) 5%,
+		rgba(41, 72, 255, 0.2) 55%,
 		rgba(0, 0, 0, 0)
 	);
 }
